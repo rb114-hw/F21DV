@@ -1,5 +1,5 @@
 shape,d1,d2,d3,d4,c
 circle,50,250,50,0,red
 rect,50,50,200,100,green
-ellipse,250,50,150,50.blue
+ellipse,250,50,150,50,blue
 line,100,200,50,150,purple
